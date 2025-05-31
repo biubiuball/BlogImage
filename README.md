@@ -1,2 +1,0 @@
-# BlogImage
-save blog images
